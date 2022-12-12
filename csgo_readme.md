@@ -1,3 +1,7 @@
+
+introduction
+============
+
 paste the files at "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg" 
 
 to run any of the files, type exec "file_name" to run (no file extension, just the name)
@@ -7,7 +11,6 @@ the autoexec will be automatically ran at launch, config is a copy of the autoex
 
 **note that my config also contains my resolution and crosshair settings, be careful to not lose yours!
 
-=======================================
 a quick rundown of all included files
 =======================================
 
